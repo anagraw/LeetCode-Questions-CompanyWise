@@ -10,15 +10,15 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link, Status
 48,Rotate Image,56.7%,Medium,0.04495138786226632, https://leetcode.com/problems/rotate-image, done
 443,String Compression,41.3%,Easy,0.031026273563100573, https://leetcode.com/problems/string-compression, 
 743,Network Delay Time,45.0%,Medium,0.02844692450205361, https://leetcode.com/problems/network-delay-time, done
-1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain
-121,Best Time to Buy and Sell Stock,50.5%,Easy,0.013201163302846108, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-152,Maximum Product Subarray,31.7%,Medium,0.012534983069696118, https://leetcode.com/problems/maximum-product-subarray
-39,Combination Sum,56.1%,Medium,0.005715934396440999, https://leetcode.com/problems/combination-sum
-15,3Sum,26.8%,Medium,0.004940992758742591, https://leetcode.com/problems/3sum
-677,Map Sum Pairs,53.5%,Medium,0, https://leetcode.com/problems/map-sum-pairs
-740,Delete and Earn,48.6%,Medium,0, https://leetcode.com/problems/delete-and-earn
-741,Cherry Pickup,33.9%,Hard,0, https://leetcode.com/problems/cherry-pickup
-1425,Constrained Subsequence Sum,44.1%,Hard,0, https://leetcode.com/problems/constrained-subsequence-sum
-1326,Minimum Number of Taps to Open to Water a Garden,43.6%,Hard,0, https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-1338,Reduce Array Size to The Half,67.0%,Medium,0, https://leetcode.com/problems/reduce-array-size-to-the-half
-1370,Increasing Decreasing String,75.7%,Easy,0, https://leetcode.com/problems/increasing-decreasing-string
+1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain, 
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.013201163302846108, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, 
+152,Maximum Product Subarray,31.7%,Medium,0.012534983069696118, https://leetcode.com/problems/maximum-product-subarray, 
+39,Combination Sum,56.1%,Medium,0.005715934396440999, https://leetcode.com/problems/combination-sum, 
+15,3Sum,26.8%,Medium,0.004940992758742591, https://leetcode.com/problems/3sum, 
+677,Map Sum Pairs,53.5%,Medium,0, https://leetcode.com/problems/map-sum-pairs, 
+740,Delete and Earn,48.6%,Medium,0, https://leetcode.com/problems/delete-and-earn, 
+741,Cherry Pickup,33.9%,Hard,0, https://leetcode.com/problems/cherry-pickup, 
+1425,Constrained Subsequence Sum,44.1%,Hard,0, https://leetcode.com/problems/constrained-subsequence-sum, 
+1326,Minimum Number of Taps to Open to Water a Garden,43.6%,Hard,0, https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden, 
+1338,Reduce Array Size to The Half,67.0%,Medium,0, https://leetcode.com/problems/reduce-array-size-to-the-half, 
+1370,Increasing Decreasing String,75.7%,Easy,0, https://leetcode.com/problems/increasing-decreasing-string, 
