@@ -8,7 +8,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link, Status
 1319,Number of Operations to Make Network Connected,53.1%,Medium,0.10041874774704733, https://leetcode.com/problems/number-of-operations-to-make-network-connected, done
 20,Valid Parentheses,39.0%,Easy,0.06735240264428982, https://leetcode.com/problems/valid-parentheses, done
 48,Rotate Image,56.7%,Medium,0.04495138786226632, https://leetcode.com/problems/rotate-image, done
-443,String Compression,41.3%,Easy,0.031026273563100573, https://leetcode.com/problems/string-compression, 
+443,String Compression,41.3%,Easy,0.031026273563100573, https://leetcode.com/problems/string-compression, done
 743,Network Delay Time,45.0%,Medium,0.02844692450205361, https://leetcode.com/problems/network-delay-time, done
 1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain, 
 121,Best Time to Buy and Sell Stock,50.5%,Easy,0.013201163302846108, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, 
