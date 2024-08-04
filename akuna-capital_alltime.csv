@@ -10,9 +10,9 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link, Status
 48,Rotate Image,56.7%,Medium,0.04495138786226632, https://leetcode.com/problems/rotate-image, done
 443,String Compression,41.3%,Easy,0.031026273563100573, https://leetcode.com/problems/string-compression, done
 743,Network Delay Time,45.0%,Medium,0.02844692450205361, https://leetcode.com/problems/network-delay-time, done
-1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain, 
-121,Best Time to Buy and Sell Stock,50.5%,Easy,0.013201163302846108, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, 
-152,Maximum Product Subarray,31.7%,Medium,0.012534983069696118, https://leetcode.com/problems/maximum-product-subarray, 
+1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain, done
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.013201163302846108, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, done
+152,Maximum Product Subarray,31.7%,Medium,0.012534983069696118, https://leetcode.com/problems/maximum-product-subarray, done
 39,Combination Sum,56.1%,Medium,0.005715934396440999, https://leetcode.com/problems/combination-sum, 
 15,3Sum,26.8%,Medium,0.004940992758742591, https://leetcode.com/problems/3sum, 
 677,Map Sum Pairs,53.5%,Medium,0, https://leetcode.com/problems/map-sum-pairs, 
